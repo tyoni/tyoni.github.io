@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Void Embodiment"
 
     [languages.en.params]
       subtitle = "A place where I put my ramblings"
