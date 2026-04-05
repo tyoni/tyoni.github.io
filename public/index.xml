@@ -1,11 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Void Embodiment</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Void Embodiment</description>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Apr 2026 11:35:46 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>//localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 05 Apr 2026 11:35:46 +0200</pubDate>
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kaas</title>
+      <link>//localhost:1313/posts/kaas/</link>
+      <pubDate>Tue, 02 Dec 2025 12:32:40 +0200</pubDate>
+      <guid>//localhost:1313/posts/kaas/</guid>
+      <description>&lt;p&gt;&lt;em&gt;THIS IS A DUTCH BOOK AND THEREFORE WILL GET A DUTCH REVIEW&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Het is ook gewoon een hele aparte situatie en dat vind de hoofdpersoon en zijn familie ook.&lt;/p&gt;&#xA;&lt;h2 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h2&gt;&#xA;&lt;p&gt;We volgen Frans Laarmans die bij kennismaking zijn tijd volmaakt als klerk bij de General Marine and Shipbuilding Company. Aan het begin van het verhaal maken wij mee hoe zijn moeder komt te overlijden en maken wij ook nog een soort van de begrafenis mee. Deze gebeurtenis is ook hoe alles van start gaat. Na de begrafenis van zijn moeder komt Frans in een auto te zitten en maakt hij kennis met de persoon die Frans in de kazige situatie brengt. Meneer van Schoonbeke.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Het Diner</title>
+      <link>//localhost:1313/posts/hetdiner/</link>
+      <pubDate>Fri, 21 Nov 2025 12:32:48 +0200</pubDate>
+      <guid>//localhost:1313/posts/hetdiner/</guid>
+      <description>&lt;p&gt;&lt;em&gt;THIS IS A DUTCH BOOK AND THEREFORE WILL GET A DUTCH REVIEW&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;mening-van-het-boek&#34;&gt;Mening van het boek&lt;/h2&gt;&#xA;&lt;p&gt;Ik vond de verteller hartstikke interessant hoewel deze aan het einde nog wel apart werd samen met zijn vrouw. Op sommige momenten vond ik de relatie die hij met zijn vrouw geweldig. De beschrijving van hun dynamiek en de liefde die zij voor elkaar hadden maakte mij warm maar dan later werd deze ook wel weer redelijk apart.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Great Gatsby</title>
+      <link>//localhost:1313/posts/thegreatgatsby/</link>
+      <pubDate>Fri, 17 Oct 2025 12:32:57 +0200</pubDate>
+      <guid>//localhost:1313/posts/thegreatgatsby/</guid>
+      <description>&lt;p&gt;In the book we listen and (sort of) follow Nick Carraway. Nick recently moved to West Egg. A place people who worked for their money come to live (new money). Quite the opposite of East Egg where people who inherited their money come to live (old money).&lt;/p&gt;&#xA;&lt;p&gt;Like the title suggests (and I also sort of hint to) the book isn’t really about Nick. He (and in effect us, the reader) are mostly witnessing the emptiness that accompanied the Jazz age here in West and East egg. This emptiness comes in the form of people who have recently earned a lot of money and are trying to climb the social ladder by hosting parties. The focus point in this book being, Gatsby. Jay Gatsby. He is the show and the focus of the book.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>And then there were None</title>
+      <link>//localhost:1313/posts/andthentherewerenone/</link>
+      <pubDate>Sun, 11 May 2025 12:33:57 +0200</pubDate>
+      <guid>//localhost:1313/posts/andthentherewerenone/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;WARNING: SPOILERS&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This book has been on my shelf for a while now. It was recommended to my by someone I met on Omegle(rip) while talking about books. They were very much into mystery novels and since I have no experience with them I asked them to commend me a book which was this one. And to be honest after some contemplation I have to say I did enjoy the book a little but not for its story and more for the idea I had of the book before hand. To explain this a bit better let me go more in detail in this book review.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lolita</title>
+      <link>//localhost:1313/posts/lolita/</link>
+      <pubDate>Tue, 08 Apr 2025 12:35:52 +0200</pubDate>
+      <guid>//localhost:1313/posts/lolita/</guid>
+      <description>&lt;p&gt;It was alright I guess…&lt;/p&gt;&#xA;&lt;p&gt;It was shocking for the first 60 pages or so but after that it became weird, sad, funny but also repetitive.&lt;/p&gt;&#xA;&lt;p&gt;H.H. is a deeply troubled man who doesn’t realize that some of his thoughts, desires, and opinions are quite delusional. Sometimes on the same page he goes from having a keen observation of a social interaction to “these nymphets are so arousing damn their magical powers over me!”.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing is not Magic, it&#39;s Design</title>
+      <link>//localhost:1313/posts/writingisnotmagic/</link>
+      <pubDate>Wed, 19 Mar 2025 12:32:02 +0200</pubDate>
+      <guid>//localhost:1313/posts/writingisnotmagic/</guid>
+      <description>&lt;p&gt;As you might have gathered from the rest of this website, I got a degree in mulimedia design. And if you read some other posts of mine, you might have also gathered that I am currently not employed as a designer. I work as a retail employee selling liquor and even though a lot of things happen there it is not my dream job and I certainly don’t want to be there forever.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>White Noise</title>
+      <link>//localhost:1313/posts/whitenoise/</link>
+      <pubDate>Tue, 25 Feb 2025 12:31:47 +0200</pubDate>
+      <guid>//localhost:1313/posts/whitenoise/</guid>
+      <description>&lt;p&gt;A break from Ulysses. Some background noise so that my brain could take a break. A reason to join my bookclub again after many months. All reasons why I started reading White Noise. I wasn’t quite sure I was going to like it based on its description. Especially when I read the description for it, a professor of “Hitler Studies” going through his life when a mysterious cloud starts looming over their town. I thought it felt kind of cliché because over the years I’ve seen many stories use Hitler or Nazism as a way to grab attention to itself. I get that it is important to be aware of it but it kind of exhausted me. In the end however, it rarely came up as a super big thing in the book so I am quite glad for that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Break from Ulysses</title>
+      <link>//localhost:1313/posts/ulysess/</link>
+      <pubDate>Mon, 10 Feb 2025 12:32:24 +0200</pubDate>
+      <guid>//localhost:1313/posts/ulysess/</guid>
+      <description>&lt;p&gt;I’ve been delaying this post for a while now so now I’m here just going for it. My original plan for this post was to summarize what I’ve read so far and talk about when I were to continue reading it. However, the more I look and reread previous chapters the more it feels futile. So, now this.&lt;/p&gt;&#xA;&lt;p&gt;As of writing this post, I am somewhere along chapter 7, more commonly referred to as Aeolus. It has taken me about a month to read 104 pages of Ulysses by taking my time, rereading chapters (especially chapter 3, Proteus), and summarizing what I read. The problem for me however is, nothing really happens in Ulysses or to put it bluntly fuck all happens in Dublin.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Fall</title>
+      <link>//localhost:1313/posts/thefall/</link>
+      <pubDate>Thu, 09 Jan 2025 12:32:35 +0200</pubDate>
+      <guid>//localhost:1313/posts/thefall/</guid>
+      <description>&lt;p&gt;Walking past half-emptied bookshelves of the bookstore. What it was I was looking for I wasn’t sure of yet. My choices were even more slim than with my previous two picks since I wasn’t the only one there. Others were there too. On a mission. Maybe a late Christmas present, a new years resolution they made. Their reason was as elusive as what I was going to read as opener for 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Stranger</title>
+      <link>//localhost:1313/posts/thestranger/</link>
+      <pubDate>Wed, 02 Oct 2024 12:33:06 +0200</pubDate>
+      <guid>//localhost:1313/posts/thestranger/</guid>
+      <description>&lt;p&gt;I didn’t know what it was about at the start of reading this book. All I knew was that it was a popular book that I have seen discussed on different social media so it took a while for me to catch on. Luckily, the book is quite short so the gist of it becomes apparent quite quickly.&lt;/p&gt;&#xA;&lt;p&gt;It basically read the same as Nausea from Sartre (which I also read and reviewed) and so wasn’t quite the page turner because you are just following someone’s life for a bit only this one was a bit more depressing. The reason I found it more depressing is because in the book we follow someone who literally just lives life. This life however takes place in a not so super great surrounding or at least some of the individuals in the surroundings of the main character are less than a good Samaritan. Because our protagonist is just living life they are immensely passive about anything and everything occurring in their personal life. Their descriptions, the way they talk to others, etc. are all just observations they do without much or any opinion at all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Fall of Hyperion</title>
+      <link>//localhost:1313/posts/thefallofhyperion/</link>
+      <pubDate>Thu, 26 Sep 2024 12:33:17 +0200</pubDate>
+      <guid>//localhost:1313/posts/thefallofhyperion/</guid>
+      <description>&lt;p&gt;I finished the book not too long ago as of me writing this (1 week ago I believe). But honestly I can’t recall half of it and that is the first half. It was iirc all still more filler towards the time tombs. That was also kind of nice for me because it gave me time to excavate the memories of the first book form the deepest neurons in my brain pan. After this first half though a lot of stuff happens for all our mc’s. Kidnapping, battle, murder, and returnal. Quite the action packed portion. The one thing that stuck with me was the conversation the Keats cybrid. had with Ummon about the artficial UI (Ultimate Intelligence) and the “human” God. It was interesting because Ummon already seemed like a kind of artifcial god but is just one of the many TechnoCore AI. Just imagining talking to such an entity seems bone chillingly intriguing. Other than this though Dan Simmons sadly lost me. Maybe in 3 years from now I’ll read the next book.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crime and Punishment</title>
+      <link>//localhost:1313/posts/crimeandpunishment/</link>
+      <pubDate>Tue, 23 Jul 2024 12:33:32 +0200</pubDate>
+      <guid>//localhost:1313/posts/crimeandpunishment/</guid>
+      <description>&lt;h1 id=&#34;this-post-contains-spoilers&#34;&gt;&lt;em&gt;THIS POST CONTAINS SPOILERS&lt;/em&gt;&lt;/h1&gt;&#xA;&lt;p&gt;I kind of out of nowhere got the opportunity to read this book after talking about it with a friend of mine who I borrowed it from (thanks Nina!). For some reason, the book got quite worn during my time reading it and I myself also feel like I somehow aged a little (aside from the literal passage of time). Anyhow, let’s get to the book shall we…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stories from Dostoevsky</title>
+      <link>//localhost:1313/posts/storiesfromdostoevsky/</link>
+      <pubDate>Sun, 09 Jun 2024 12:33:43 +0200</pubDate>
+      <guid>//localhost:1313/posts/storiesfromdostoevsky/</guid>
+      <description>&lt;p&gt;Lately, I’ve been reading a collection of stories from the Russian author Fyodor Dostoevsky. Since some of these stories aren’t as long and because I have/will not read all of them in one go, I will just review some of the stories I’ve read so far from him. These reviews will be brief but at least they will be here to see. As mentioned before, these stories were written by a russian author who only wrote in Russian as far as I am aware. I will be reading the translations found in the Wordsworth Classics “Notes from Underground &amp;amp; Other Stories” book where the translation has been done by Constance Garnett.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Art of War</title>
+      <link>//localhost:1313/posts/artofwar/</link>
+      <pubDate>Sat, 18 May 2024 12:33:49 +0200</pubDate>
+      <guid>//localhost:1313/posts/artofwar/</guid>
+      <description>&lt;p&gt;Not what I expected if I am being honest. I guess that is my own fault for not first leafing through the book beforehand.&lt;/p&gt;&#xA;&lt;p&gt;I thought the book would be more like a normal story-like book. Maybe even something like the prince from Machiavelli but I was taken aback when the entire book was just one-liner after one-liner about how to approach war.&lt;/p&gt;&#xA;&lt;p&gt;I find it hard to say anything about the book honestly because I am not a military general wanting to get better at waging ware except if count Magic the Gathering commander games as waging war then maybe I am. But I don’t think Sun Tzu will help me against a Sheoldred, the Apocolypse when I have missed my third land drop of the game. Anyway, I digress…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Do Androids Dream of Electric Sheep</title>
+      <link>//localhost:1313/posts/doandroidsdreamofelectricsheep/</link>
+      <pubDate>Sun, 21 Apr 2024 12:34:07 +0200</pubDate>
+      <guid>//localhost:1313/posts/doandroidsdreamofelectricsheep/</guid>
+      <description>&lt;p&gt;I liked it. Short, sweet, and nothing like what happened in the movies. It was also kind of disorientating from time to time. Maybe surreal is a better word for it. A very fitting story to read after reading Nausea. Going from “accepting existence and being there” to “what does it mean to exist and how would we differ from something that could perfectly emulate being alive?”&lt;/p&gt;&#xA;&lt;p&gt;Really enjoyed how the MC, Rick Deckard, wasn’t sure anymore how to feel about the androids after a while. How coming in contact with something so life-like and seemingly human was so far detached from him.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nausea</title>
+      <link>//localhost:1313/posts/nausea/</link>
+      <pubDate>Mon, 15 Jan 2024 12:35:58 +0200</pubDate>
+      <guid>//localhost:1313/posts/nausea/</guid>
+      <description>&lt;p&gt;This was my second attempt at reading it. My first attempt failed because I wasn’t ready to understand it I think. It was very soon after I started living here at — and I was still digesting everything that happened with —.&lt;/p&gt;&#xA;&lt;p&gt;Fitting then how Antoine was also having some emotional problems regarding a woman. However, during my first attempt I don’t recall ever getting far enough to have known that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthem</title>
+      <link>//localhost:1313/posts/anthem/</link>
+      <pubDate>Wed, 20 Dec 2023 12:36:03 +0200</pubDate>
+      <guid>//localhost:1313/posts/anthem/</guid>
+      <description>&lt;p&gt;Someone who discovered love and learned what it means to be himself. He went from the city of damned to the capitol of the free world.&lt;/p&gt;&#xA;&lt;p&gt;He was taught he was not significant and only the group has value but learned that he is significant alone or with his close friends and brothers. For people in whatever system struggling to resist being eaten by it.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;My happiness is not the means to any end. It is the end. It is its own goal. It is its own purpose.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Snow Crash</title>
+      <link>//localhost:1313/posts/snowcrash/</link>
+      <pubDate>Thu, 23 Nov 2023 12:36:10 +0200</pubDate>
+      <guid>//localhost:1313/posts/snowcrash/</guid>
+      <description>&lt;p&gt;&lt;em&gt;To preface this book review. For some reason, I wrote the original review in dutch. This here is the translated version of that review.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Snow Crash was a fun book to read with lots of interesting things happening in it that are now a reality for better or worse. It was quite enjoyable to read about how Neal imagined VR would work in that world.&lt;/p&gt;&#xA;&lt;p&gt;In particularly the technical aspect of it because some of his creations would probably seem like impossibilities in his times but nowadays are not even high-end. This already happened in page 28 when he described how the VR glasses from Hiro worked.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Atlas Shrugged</title>
+      <link>//localhost:1313/posts/atlasshrugged/</link>
+      <pubDate>Wed, 08 Feb 2023 12:36:16 +0200</pubDate>
+      <guid>//localhost:1313/posts/atlasshrugged/</guid>
+      <description>&lt;p&gt;I’d like to preface this review with the warning that I finished the book several months ago but kept on pushing back on writing this review.&lt;/p&gt;&#xA;&lt;p&gt;First things first, I thought the book was good. Very good in fact. The entire read up until the rescue of John Galt was basically captivating. The rescue however, couldn’t have felt more out of place. The ending felt like a shitty action movie you forget about the moment it is done except I still remember it sadly.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
