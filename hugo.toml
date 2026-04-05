@@ -77,9 +77,9 @@ pagination.pagerSize = 5
     title = "Terminal"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
+      subtitle = "A place where I put my ramblings"
+      owner = "Tyoni"
+      keywords = "keywords"
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
@@ -92,18 +92,18 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Void embodiment"
         logoHomeLink = "/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
+          identifier = "Portfolio"
+          name = "Portfolio"
+          url = "https://justcallmety.nl/"
         [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+          identifier = ""
+          name = ""
+          url = "/"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,

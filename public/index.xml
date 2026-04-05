@@ -6,15 +6,8 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 11:35:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 12:32:40 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>//localhost:1313/posts/hello-world/</link>
-      <pubDate>Sun, 05 Apr 2026 11:35:46 +0200</pubDate>
-      <guid>//localhost:1313/posts/hello-world/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Kaas</title>
       <link>//localhost:1313/posts/kaas/</link>
