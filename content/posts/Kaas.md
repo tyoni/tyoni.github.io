@@ -11,7 +11,9 @@ description = "Het is een apart boek maar een leuk boek omdat het dus zo apart i
 showFullContent = false
 readingTime = true
 hideComments = false
+framed = true
 +++
+
 *THIS IS A DUTCH BOOK AND THEREFORE WILL GET A DUTCH REVIEW*
 
 Het is ook gewoon een hele aparte situatie en dat vind de hoofdpersoon en zijn familie ook.
