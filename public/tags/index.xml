@@ -22,5 +22,19 @@
       <guid>//localhost:1313/tags/review/</guid>
       <description></description>
     </item>
+    <item>
+      <title>DnD</title>
+      <link>//localhost:1313/tags/dnd/</link>
+      <pubDate>Thu, 08 May 2025 12:40:40 +0200</pubDate>
+      <guid>//localhost:1313/tags/dnd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobby</title>
+      <link>//localhost:1313/tags/hobby/</link>
+      <pubDate>Thu, 08 May 2025 12:40:40 +0200</pubDate>
+      <guid>//localhost:1313/tags/hobby/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
