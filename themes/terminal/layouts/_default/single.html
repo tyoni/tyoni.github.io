@@ -39,12 +39,18 @@
   {{ end }}
 
   <div class="post-content">
+  {{- if .Params.carousel -}}
+    <div>
+      {{ partial "list-to-carousel.html" .Content }}
+    </div>
+  {{- else -}}
     {{- with .Content -}}
       <div>
         {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">#</a> ${3}` | safeHTML }}
       </div>
     {{- end -}}
-  </div>
+  {{- end -}}
+</div>
 
   {{ if eq .Type $.Site.Params.contentTypeName }}
     {{ partial "posts_pagination.html" . }}
