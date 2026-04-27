@@ -101,9 +101,9 @@ pagination.pagerSize = 5
           name = "Portfolio"
           url = "https://justcallmety.nl/"
         [[languages.en.menu.main]]
-          identifier = ""
-          name = ""
-          url = "/"
+          identifier = "QaN"
+          name = "Quotes and Notes"
+          url = "pages/QuotesAndNotes"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
