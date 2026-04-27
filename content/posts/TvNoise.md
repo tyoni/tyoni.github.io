@@ -14,7 +14,7 @@ hideComments = false
 +++
 So yea, I was just sitting in front of my desk to do some drawing or whatever else when my first thought was "better put up some music as background" and that sort of made me reminisce. It made me nostalgic for a time more than a decade ago (yeez now I truly feel old) when during the weekends I occasionally and stayed at my grandparents. 
 
-At my grandparents I had my own room with a bed, desk, and even a TV! A very blocky tv so imagine just any old school crt tv in gray. I had this thing standing on my, might I say, quite large desk on the right hand side. Whenever I was gaming on my shitty office laptop that I truly put through the wringer while I was trying to play whatever videogame tickled my fancy in that moment. So like <a href="https://www.counter-strike.net/" target="blank">CS:GO</a> or League of Legends (I won't be adding a link for this, trust me). 
+At my grandparents I had my own room with a bed, desk, and even a TV! A very blocky tv so imagine just any old school crt tv in gray. I had this thing standing on my, might I say, quite large desk on the right hand side. Whenever I was gaming on my shitty office laptop that I truly put through the wringer while I was trying to play whatever videogame tickled my fancy in that moment. So like <a href="https://www.counter-strike.net/" target="blank">CS:GO</a>or League of Legends. 
 
 I just put it on a random channel and very rarely in between game matches or whatever would glance at it. I didn't really know it at the time but I think I did it because it felt kind of comforting. Similar to those youtube background audio videos of like a busy café or something. It gave the comfort of being home and also sort of the feeling of being out in the world. 
 
