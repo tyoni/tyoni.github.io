@@ -11,6 +11,7 @@ description = "As I wanted to do something at my desk I suddenly thought 'I sure
 showFullContent = false
 readingTime = true
 hideComments = false
+toc = false
 +++
 So yea, I was just sitting in front of my desk to do some drawing or whatever else when my first thought was "better put up some music as background" and that sort of made me reminisce. It made me nostalgic for a time more than a decade ago (yeez now I truly feel old) when during the weekends I occasionally and stayed at my grandparents. 
 

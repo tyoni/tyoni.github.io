@@ -6,14 +6,13 @@
     <description>Recent content in Pages on Void Embodiment</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 21:36:03 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quotes and Notes</title>
       <link>//localhost:1313/pages/quotesandnotes/</link>
-      <pubDate>Mon, 27 Apr 2026 21:36:03 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pages/quotesandnotes/</guid>
-      <description>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;&#xA;&lt;p&gt;My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.&lt;/p&gt;&#xA;&lt;p&gt;We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.&lt;/p&gt;&#xA;&lt;p&gt;This theme is pretty basic and covers all of the essentials. All you have to do is start typing!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Here are some interesting things I found on the internet and wanted to store somewhere :)&lt;/p&gt;&#xA;&lt;h1 id=&#34;brandolinis-law&#34;&gt;Brandolini&amp;rsquo;s law&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Brandolini%27s_law&#34;&gt;https://en.wikipedia.org/wiki/Brandolini%27s_law&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>
