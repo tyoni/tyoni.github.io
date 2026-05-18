@@ -14,7 +14,7 @@ hideComments = false
 +++
 ***WARNING: SPOILERS***
 
-This book has been on my shelf for a while now. It was recommended to my by someone I met on Omegle(rip) while talking about books. They were very much into mystery novels and since I have no experience with them I asked them to commend me a book which was this one. And to be honest after some contemplation I have to say I did enjoy the book a little but not for its story and more for the idea I had of the book before hand. To explain this a bit better let me go more in detail in this book review.
+This book has been on my shelf for a while now. It was recommended to my by someone I met on Omegle(rip) while talking about books. They were very much into mystery novels and since I have no experience with them I asked them to recommend me a book which was this one. And to be honest after some contemplation I have to say I did enjoy the book a little but not for its story and more for the idea I had of the book before hand. To explain this a bit better let me go more in detail in this book review.
 
 ## Short summary
 

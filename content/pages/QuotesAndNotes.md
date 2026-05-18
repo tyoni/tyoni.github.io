@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = 'Quotes and Notes'
 toc = false
 readingTime = false
