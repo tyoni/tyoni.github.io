@@ -103,7 +103,7 @@ pagination.pagerSize = 5
         [[languages.en.menu.main]]
           identifier = "QaN"
           name = "Quotes and Notes"
-          url = "pages/QuotesAndNotes"
+          url = "/pages/QuotesAndNotes.md"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
