@@ -6,20 +6,20 @@
     <description>Recent content in Tags on Void Embodiment</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 12:40:40 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:06:31 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DnD</title>
-      <link>//localhost:1313/tags/dnd/</link>
-      <pubDate>Fri, 08 May 2026 12:40:40 +0200</pubDate>
-      <guid>//localhost:1313/tags/dnd/</guid>
+      <title>Reading</title>
+      <link>//localhost:1313/tags/reading/</link>
+      <pubDate>Wed, 17 Jun 2026 09:06:31 +0200</pubDate>
+      <guid>//localhost:1313/tags/reading/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hobby</title>
-      <link>//localhost:1313/tags/hobby/</link>
-      <pubDate>Fri, 08 May 2026 12:40:40 +0200</pubDate>
-      <guid>//localhost:1313/tags/hobby/</guid>
+      <title>Update</title>
+      <link>//localhost:1313/tags/update/</link>
+      <pubDate>Wed, 17 Jun 2026 09:06:31 +0200</pubDate>
+      <guid>//localhost:1313/tags/update/</guid>
       <description></description>
     </item>
     <item>
@@ -62,6 +62,20 @@
       <link>//localhost:1313/tags/review/</link>
       <pubDate>Tue, 02 Dec 2025 12:32:40 +0200</pubDate>
       <guid>//localhost:1313/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DnD</title>
+      <link>//localhost:1313/tags/dnd/</link>
+      <pubDate>Thu, 08 May 2025 12:40:40 +0200</pubDate>
+      <guid>//localhost:1313/tags/dnd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobby</title>
+      <link>//localhost:1313/tags/hobby/</link>
+      <pubDate>Thu, 08 May 2025 12:40:40 +0200</pubDate>
+      <guid>//localhost:1313/tags/hobby/</guid>
       <description></description>
     </item>
   </channel>
