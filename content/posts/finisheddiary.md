@@ -1,5 +1,5 @@
 +++
-title = "Finisheddiary"
+title = "Finished diary"
 date = "2026-07-13T07:29:11+02:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
