@@ -11,6 +11,7 @@ description = "This is the first time I have filled a diary/journal from cover t
 showFullContent = false
 readingTime = true
 hideComments = false
+toc = false
 +++
 So, this morning I wanted to write about a dream I had that really resonated with me. Then when I opened this notebook I noticed it was the last page I could write on. It felt really weird. I had to keep my account of the dream brief but I did fit it all on that last page. But now, I need to get a need notebook. 
 

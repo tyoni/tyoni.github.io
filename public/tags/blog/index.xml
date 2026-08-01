@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Void Embodiment</title>
+    <link>//localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on Void Embodiment</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jul 2026 20:20:16 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal matters are none of my concern...right?</title>
+      <link>//localhost:1313/posts/personalmatters/</link>
+      <pubDate>Sun, 12 Jul 2026 20:20:16 +0200</pubDate>
+      <guid>//localhost:1313/posts/personalmatters/</guid>
+      <description>&lt;p&gt;I am currently watching &lt;a href=&#34;https://en.wikipedia.org/wiki/ACCA:_13-Territory_Inspection_Dept.&#34;&gt;ACCA: 13-Territory Inspection Dept.&lt;/a&gt; and in one episode a side character notes that the MC, who seems very mysterious to them, might be just unconcerned with personal matters. This got me wondering. Is this a bad thing? Is tihs weird? I could very much resonate with that way of life.&lt;/p&gt;&#xA;&lt;p&gt;I have been regarded as a quiet kid by my family and friends even though I try to be involved in my own way. I am there when they ask for me and will be there to support them in whatever way I am capable of. There are just things I don&amp;rsquo;t care about and would seem insincere to act as if I do. However, this philosophy of life might not be that efficient this world. I have little interest in people their own private lifes most of the time. I got enough to worry about myself (not a lot) and see no value in also bringing their worries within my own.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

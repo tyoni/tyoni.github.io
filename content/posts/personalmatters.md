@@ -11,6 +11,7 @@ description = "Is it really that important to know what the Joneses are doing?"
 showFullContent = false
 readingTime = true
 hideComments = false
+toc = false
 +++
 I am currently watching [ACCA: 13-Territory Inspection Dept.](https://en.wikipedia.org/wiki/ACCA:_13-Territory_Inspection_Dept.) and in one episode a side character notes that the MC, who seems very mysterious to them, might be just unconcerned with personal matters. This got me wondering. Is this a bad thing? Is tihs weird? I could very much resonate with that way of life.
 
