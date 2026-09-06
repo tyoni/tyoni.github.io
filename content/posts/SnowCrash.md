@@ -11,6 +11,7 @@ description = "You’re in this place. There’s other people all around you, bu
 showFullContent = false
 readingTime = true
 hideComments = false
+toc = false
 +++
 *To preface this book review. For some reason, I wrote the original review in dutch. This here is the translated version of that review.*
 
