@@ -1,5 +1,5 @@
 +++
-title = "Conceptliving"
+title = "Concept living"
 date = "2026-09-13T21:38:57+02:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "me"
