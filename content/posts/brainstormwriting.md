@@ -7,14 +7,16 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["writing", "showerthoughts"]
 keywords = ["writing", "theorycrafting"]
-description = "A long time ago I wrote little stories because...well because it is fun. Recently, I started thinking of another one and its been 2 days and I'm still thinking about it so I figured it's best if I at least write down, however briefly, my thoughts/notes for it so I can forever look back on it."
+description = "A long time ago I wrote little stories because...well because it is fun. Now I might start again but first. Some brainstorm notes!"
 showFullContent = false
 readingTime = false
 hideComments = false
 +++
->The story would be probably based on an older story I've written but with some additional technical details that sparked this entire post. 
->
->The "details" for this are as follow:
+Recently, I started thinking of another one and its been 2 days and I'm still thinking about it so I figured it's best if I at least write down, however briefly, my thoughts/notes for it so I can forever look back on it.
+
+The story would be probably based on an older story I've written but with some additional technical details that sparked this entire post. 
+
+The "details" for this are as follow:
 >In this future/alternate reality AI never because AGI but instead did become really efficient. It became so efficient and effective about 90% of jobs were eliminated. This caused a global level outroar from most civilizations which lasted for several years if not decades. In those years many people struggled to survive after the economic system was basically a prison for most people. 
 >
 >--no clue how to follow up with next section--
