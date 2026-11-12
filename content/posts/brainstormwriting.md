@@ -11,6 +11,7 @@ description = "A long time ago I wrote little stories because...well because it 
 showFullContent = false
 readingTime = false
 hideComments = false
+toc = false
 +++
 Recently, I started thinking of another one and its been 2 days and I'm still thinking about it so I figured it's best if I at least write down, however briefly, my thoughts/notes for it so I can forever look back on it.
 	
