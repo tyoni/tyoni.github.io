@@ -31,7 +31,8 @@ The "details" for this are as follow:
 
 That's all I've come up with so far but that's basically what I've been thinking about for the last 2 days so this is a nice way to get it out of my head. Can't wait to find out it got scrapped and someone AI generated a dogshit book out of it.
 
--- Edit 12 Nov 2026 --
+## -- Edit 12 Nov 2026 --
+
 I forgot to add something to my notes that I did think of at the time so it will be added here:
 >Besides this feature giving AR visuals it acted like headphones. This way anyone could listen to audio of their choice whenever they wanted without obstructing their ears. 
 >
