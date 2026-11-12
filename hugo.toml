@@ -43,7 +43,7 @@ pagination.pagerSize = 5
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  Toc = true # default
+  Toc = false
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
